@@ -1,3 +1,4 @@
+
 ![Logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1114e213546737.5627516801a6d.jpg)
 
 # Analysis of the real estate market in Warsaw 
@@ -12,12 +13,19 @@ It answers the questions:
 
 The next part of the project focuses on building and performing a linear regression model to predict flat prices. This part involves selecting appropriate predictors, fitting the model to the data and calculating the accuracy of the model. This project is for educational purposes only and aims to demonstrate my coding and analytical skills.
 Link to the data set: https://www.kaggle.com/datasets/oleksandrarsentiev/warsaw-pl-flat-prices-sept-2022.
-Project roadmap:
+
+
+
+## Project roadmap
 ##### 1. DATA PREPROCESSING
 ##### 2. DATA CLEANING (MISTAKES DETECTION) 
 ##### 3. STATISTICS
 ##### 4. GROUPED STATISTICS
 ##### 5. BUILDING LINEAR REGRESSION MODEL
 ##### 6. CONCLUSIONS
+
+## Authors
+
+- [@grzybkenzi](https://github.com/grzybkenzi)
 
 
