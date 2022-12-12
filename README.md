@@ -24,8 +24,8 @@ Link to the data set: https://www.kaggle.com/datasets/oleksandrarsentiev/warsaw-
 ##### 5. BUILDING LINEAR REGRESSION MODEL
 ##### 6. CONCLUSIONS
 
-## Authors
+## Author
 
-- [@grzybkenzi](https://github.com/grzybkenzi)
+[@grzybkenzi](https://github.com/grzybkenzi)
 
 
